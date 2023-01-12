@@ -1,6 +1,6 @@
 What this program does: Measures the correlation between: a) fertility rate and gender inequality and b) women's average age of first marriage and gender inequality across 161 nations. There is a high correlation (r = 0.78) between fertility rate (average number of children per woman) and gender inequality. There also is a high inverse correlation (-0.72) between women's average age of first marriage and gender inequality (when the marriage age is higher, gender inequality is lower).
 
-What this program entails: Gender inequality is measured by the Gender Inequality Index (GII). Performs linear regression on a csv file with the numpy and matplotlib libraries. 
+What this program entails: Gender inequality is measured by the Gender Inequality Index (GII). Performs linear regression on a csv file with numpy and matplotlib. 
 
 Future applications: Use the same method to measure the correlations between gender inequality and the human development index (HDI), religion, per capita gross domestic product with purchasing power parity (GDP PPP), the World Happiness Report, and the Gini coefficient (income inquality). 
 
