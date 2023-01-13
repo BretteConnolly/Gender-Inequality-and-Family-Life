@@ -2,7 +2,7 @@ What this program does: Measures the correlation between: a) fertility rate and 
 
 What this program entails: Gender inequality is measured by the Gender Inequality Index (GII). Performs linear regression on a csv file with numpy and matplotlib. 
 
-Future applications: Use the same method to measure the correlations between gender inequality and the human development index (HDI), religion, per capita gross domestic product with purchasing power parity (GDP PPP), the World Happiness Report, and the Gini coefficient (income inquality). 
+Future applications: Use the same method to measure the correlations between gender inequality and female literacy rate, the Gini coefficient (income inquality), the human development index (HDI), male literacy rate, per capita gross domestic product with purchasing power parity (GDP PPP), religion, and the World Happiness Report. 
 
 Sources: 
 -- Nations, United (2020). "Human Development Report 2020 - Table 5: Gender Inequality Index". United Nations Development Programme. 
